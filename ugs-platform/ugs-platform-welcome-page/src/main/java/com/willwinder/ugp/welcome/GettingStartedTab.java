@@ -42,7 +42,7 @@ public class GettingStartedTab extends AbstractTab implements Constants {
   private static Image run = Toolkit.getDefaultToolkit().getImage(
       GettingStartedTab.class.getClassLoader().getResource("com/willwinder/ugp/welcome/resources/run.png"));
 
-  private static String line1 = "Welcome to Universal Gcode Sender! If this is your first time using UGS thanks for giving it a try. This window is here to help you get started, once you're comfortable with the basic sending functionality please explore the other tabs to learn about some of the other features that UGS has to offer.";
+  private static String line1 = "Welcome to Aarow Automation Gcode Sender! If this is your first time using UGS thanks for giving it a try. This window is here to help you get started, once you're comfortable with the basic sending functionality please explore the other tabs to learn about some of the other features that UGS has to offer.";
 
   private static String openLine = "Open your Gcode file from the 'File' menu. Once you load a file there are a number of things you can do with it: inspect the toolpaths from the Visualizer, edit them by selecting edit from the 'File' menu, see the number of rows in the program in the UGS status area. UGS is a great way to preview your toolpaths even if you aren't ready to run the program yet!";
 

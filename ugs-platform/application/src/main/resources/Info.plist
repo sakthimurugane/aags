@@ -3,7 +3,7 @@
     <dict>
 
         <key>CFBundleName</key>
-        <string>Universal Gcode Platform</string>
+        <string>Aarow Automation Gcode Platform</string>
     
         <key>CFBundleVersion</key>
         <string>${project.version}</string>

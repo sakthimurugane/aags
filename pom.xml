@@ -8,10 +8,10 @@
   <version>2.0</version>
   <packaging>pom</packaging>
 
-  <inceptionYear>2012</inceptionYear>
+  <inceptionYear>2021</inceptionYear>
 
   <name>ugs-parent</name>
-  <description>Universal Gcode Sender Library</description>
+  <description>Aarow Automation Gcode Sender Library</description>
   <url>https://github.com/winder/Universal-G-Code-Sender/tree/master</url>
 
   <scm>
