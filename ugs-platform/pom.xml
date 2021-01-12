@@ -17,8 +17,8 @@
     <properties>
       <maven.build.timestamp.format>yyyy.MM.dd.HH.mm</maven.build.timestamp.format>
       <netbeans.version>RELEASE120-1</netbeans.version>
-      <ugs.app.title>Universal Gcode Platform ${project.version}</ugs.app.title>
-      <ugs.appbundle.name>Universal Gcode Platform</ugs.appbundle.name>
+      <ugs.app.title>Aarow Automation Gcode Platform ${project.version}</ugs.app.title>
+      <ugs.appbundle.name>Aarow Automation Gcode Platform</ugs.appbundle.name>
 
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
