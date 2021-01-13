@@ -41,7 +41,7 @@
       <ugs.codesign.identity>Developer ID Application</ugs.codesign.identity>
 
       <!--==== Netbeans Plugin Settings ====-->
-      <brandingToken>ugsplatform</brandingToken>
+      <brandingToken>aagsplatform</brandingToken>
       <all.clusters>${project.build.directory}/${brandingToken}</all.clusters>
 
       <!--==== Plugin Versions ====-->
