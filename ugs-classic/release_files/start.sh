@@ -15,10 +15,10 @@ esac
 
 case "$platform" in
         mac)
-                java -Xdock:name=UniversalGCodeSender -jar -Xmx256m "$rootdir"/UniversalGcodeSender*.jar
+                java -Xdock:name=AarowAutomationGcodeSender -jar -Xmx256m "$rootdir"/AarowAutomationGcodeSender*.jar
         ;;
         linux)
-                java -jar -Xmx256m "$rootdir"/UniversalGcodeSender*.jar
+                java -jar -Xmx256m "$rootdir"/AarowAutomationGcodeSender*.jar
         ;;
 esac
         

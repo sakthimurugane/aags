@@ -1,20 +1,20 @@
 /*
     Copyright 2018 Will Winder
 
-    This file is part of Universal Gcode Sender (UGS).
+    This file is part of Aarow Automation Gcode Sender (AAGS).
 
-    UGS is free software: you can redistribute it and/or modify
+    AAGS is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    UGS is distributed in the hope that it will be useful,
+    AAGS is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with UGS.  If not, see <http://www.gnu.org/licenses/>.
+    along with AAGS.  If not, see <http://www.gnu.org/licenses/>.
  */
 package com.willwinder.ugp.welcome;
 
@@ -42,12 +42,12 @@ public class GettingStartedTab extends AbstractTab implements Constants {
   private static Image run = Toolkit.getDefaultToolkit().getImage(
       GettingStartedTab.class.getClassLoader().getResource("com/willwinder/ugp/welcome/resources/run.png"));
 
-  private static String line1 = "Welcome to Aarow Automation Gcode Sender! If this is your first time using UGS thanks for giving it a try. This window is here to help you get started, once you're comfortable with the basic sending functionality please explore the other tabs to learn about some of the other features that UGS has to offer.";
+  private static String line1 = "Welcome to Aarow Automation Gcode Sender! If this is your first time using AAGS thanks for giving it a try. This window is here to help you get started, once you're comfortable with the basic sending functionality please explore the other tabs to learn about some of the other features that AAGS has to offer.";
 
-  private static String openLine = "Open your Gcode file from the 'File' menu. Once you load a file there are a number of things you can do with it: inspect the toolpaths from the Visualizer, edit them by selecting edit from the 'File' menu, see the number of rows in the program in the UGS status area. UGS is a great way to preview your toolpaths even if you aren't ready to run the program yet!";
+  private static String openLine = "Open your Gcode file from the 'File' menu. Once you load a file there are a number of things you can do with it: inspect the toolpaths from the Visualizer, edit them by selecting edit from the 'File' menu, see the number of rows in the program in the AAGS status area. AAGS is a great way to preview your toolpaths even if you aren't ready to run the program yet!";
 
   private static String connectLine1 = "When you are ready to connect to your machine, the serial connection can be configured in the toolbar at the top of the program. Choose your firmware from the combo box and configure the serial options accordingly. If you haven't configured your controller yet you may be interested in the configuration wizard found in the 'Machine' menu.";
-  private static String connectLine2 = "Once connected you can start using UGS to control your machine. Some good places to start are the Jog Controller, manually sending commands in the console, or working with the coordinate system in the DRO. More information about these features can be found in the other tabs and at http://winder.github.io/ugs_website/";
+  private static String connectLine2 = "Once connected you can start using AAGS to control your machine. Some good places to start are the Jog Controller, manually sending commands in the console, or working with the coordinate system in the DRO. More information about these features can be found in the other tabs.";
 
   private static String runLine = "Once you have loaded a file and established a connection, the program may be run. These icons in the toolbar can be used to stream, pause, and stop the program.";
 

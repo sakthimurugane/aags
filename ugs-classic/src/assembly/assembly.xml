@@ -19,7 +19,7 @@
       <directory>${project.build.directory}</directory>
       <outputDirectory>/</outputDirectory>
       <includes>
-        <include>UniversalGcodeSender.jar</include>
+        <include>AarowAutomationGcodeSender.jar</include>
       </includes>
     </fileSet>
   </fileSets>

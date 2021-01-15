@@ -42,7 +42,7 @@ public class LoopBackConnection extends AbstractConnection {
 
     private void initialize() {
         responseMessageHandler.handleResponse(" ");
-        responseMessageHandler.handleResponse("Grbl 0.9z [ugs diagnostic mode]");
+        responseMessageHandler.handleResponse("Grbl 0.9z [aags diagnostic mode]");
         responseMessageHandler.handleResponse(" ");
         responseMessageHandler.handleResponse("This is a diagnostic end point which responds to each gcode");
         responseMessageHandler.handleResponse("command as fast as possible while doing nothing else.");

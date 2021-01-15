@@ -15,10 +15,10 @@ esac
 
 case "$platform" in
         mac)
-                java -Xdock:name=UniversalGCodeSender -Xmx256m -cp "$rootdir"/UniversalGcodeSender*.jar com.willwinder.ugs.cli.TerminalClient $@
+                java -Xdock:name=AarowAutomationGcodeSender -Xmx256m -cp "$rootdir"/AarowAutomationGcodeSender*.jar com.willwinder.ugs.cli.TerminalClient $@
         ;;
         linux)
-                java -Xmx256m -cp "$rootdir"/UniversalGcodeSender*.jar com.willwinder.ugs.cli.TerminalClient $@
+                java -Xmx256m -cp "$rootdir"/AarowAutomationGcodeSender*.jar com.willwinder.ugs.cli.TerminalClient $@
         ;;
 esac
         

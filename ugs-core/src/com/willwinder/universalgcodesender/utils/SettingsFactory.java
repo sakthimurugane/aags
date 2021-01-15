@@ -38,9 +38,9 @@ public class SettingsFactory {
     private static final String FALSE = "false";
     private static Settings settings;
 
-    public static final String SETTINGS_DIRECTORY_NAME = "ugs";
-    public static final String PROPERTIES_FILENAME = "UniversalGcodeSender.properties";
-    public static final String JSON_FILENAME = "UniversalGcodeSender.json";
+    public static final String SETTINGS_DIRECTORY_NAME = "aags";
+    public static final String PROPERTIES_FILENAME = "AarowAutomationGcodeSender.properties";
+    public static final String JSON_FILENAME = "AarowAutomationGcodeSender.json";
     public static final String MAC_LIBRARY = "/Library/Preferences/";
 
     public static Settings loadSettings() {
