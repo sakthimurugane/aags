@@ -12,12 +12,12 @@
 
   <name>ugs-parent</name>
   <description>Aarow Automation Gcode Sender Library</description>
-  <url>https://github.com/winder/Universal-G-Code-Sender/tree/master</url>
+  <url></url>
 
   <scm>
-    <connection>scm:git:git@github.com:winder/Universal-G-Code-Sender.git</connection>
-    <developerConnection>scm:git:git@github.com:winder/Universal-G-Code-Sender.git</developerConnection>
-    <url>https://github.com/winder/Universal-G-Code-Sender/tree/master</url>
+    <connection>scm:git:git@github.com:sakthimurugane/aaugs.git</connection>
+    <developerConnection>scm:git:git@github.com:sakthimurugane/aaugs.git</developerConnection>
+    <url></url>
   </scm>
 
   <licenses>
@@ -29,8 +29,8 @@
 
   <developers>
     <developer>
-      <name>Will Winder</name>
-      <email>wwinder.unh@gmail.com</email>
+      <name>Sakthimurugan Elangovan</name>
+      <email>sakthimurugane@gmail.com</email>
     </developer>
   </developers>
 
