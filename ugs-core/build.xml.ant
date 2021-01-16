@@ -17,7 +17,7 @@
     <!-- provide the path to the shared native libraries directory -->
     <property name="natives.dir" value="${basedir}/lib/natives/"/>
     <!-- provide a base name for your executable. -->
-    <property name="standalone.jar.name" value="AarowAutomationGcodeSender"/>
+    <property name="standalone.jar.name" value="UniversalGcodeSender"/>
     
     <import file="one-jar-ant-task.xml" />
 
