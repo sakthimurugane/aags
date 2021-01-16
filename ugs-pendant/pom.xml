@@ -13,8 +13,8 @@
     <packaging>jar</packaging>
 
     <name>${project.artifactId}</name>
-    <description>Web based pendant for controlling UGS</description>
-    <url>https://github.com/winder/Universal-G-Code-Sender/tree/master/ugs-pendant</url>
+    <description>Web based pendant for controlling AAGS</description>
+    <url>https://github.com/sakthimurugane/aaugs/tree/master/ugs-pendant</url>
 
     <properties>
         <timestamp>${maven.build.timestamp}</timestamp>
