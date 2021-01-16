@@ -19,10 +19,10 @@
 
 @OptionsPanelController.ContainerRegistration(
         id = "UGS",
-        categoryName = "UGS",
+        categoryName = "AAGS",
         iconBase = "com/willwinder/ugs/nbp/lib/options/CNC.png",
-        keywords = "UGS",
-        keywordsCategory = "UGS")
+        keywords = "AAGS",
+        keywordsCategory = "AAGS")
 package com.willwinder.ugs.nbp.lib.options;
 
 import org.netbeans.spi.options.OptionsPanelController;
