@@ -1,2 +1,2 @@
-java -jar -Xmx256m AarowAutomationGcodeSender.jar
+java -jar -Xmx256m UniversalGcodeSender.jar
         

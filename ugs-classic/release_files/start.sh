@@ -13,12 +13,13 @@ case "$unamestr" in
         ;;
 esac
 
+
 case "$platform" in
         mac)
-                java -Xdock:name=AarowAutomationGcodeSender -jar -Xmx256m "$rootdir"/AarowAutomationGcodeSender*.jar
+                java -Xdock:name=UniversalGcodeSender -jar -Xmx256m "$rootdir"/UniversalGcodeSender*.jar
         ;;
         linux)
-                java -jar -Xmx256m "$rootdir"/AarowAutomationGcodeSender*.jar
+                java -jar -Xmx256m "$rootdir"/UniversalGcodeSender*.jar
         ;;
 esac
         

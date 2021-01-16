@@ -14,7 +14,7 @@
 
     <name>${project.artifactId}</name>
     <description>Universal Gcode Sender terminal client</description>
-    <url>https://github.com/winder/Universal-G-Code-Sender/tree/master/ugs-terminal-client</url>
+    <url>https://github.com/sakthimurugane/aaugs/tree/master/ugs-terminal-client</url>
 
     <properties>
         <timestamp>${maven.build.timestamp}</timestamp>
